@@ -1,3 +1,4 @@
+
 # 🎲 Simulate Probability Experiments
 
 This Python program simulates four probability experiments and visualizes the results using bar charts. It helps users understand basic probability concepts through interactive simulations.
@@ -41,3 +42,49 @@ All simulations include graphical output using `matplotlib`.
 
 ```bash
 pip install matplotlib
+````
+
+### Run the Application
+
+```bash
+python probability_experiments.py
+```
+
+Each task runs sequentially and displays a plot for each experiment.
+
+---
+
+## ✨ Extra Credit
+
+For extra credit, a **Tkinter GUI** version can be implemented. Features might include:
+
+* Dropdown to select which experiment to run
+* Input boxes to customize number of trials
+* Buttons to trigger simulations and display charts
+
+---
+
+## 📹 Demonstration Video
+
+🎥 [Watch the video demonstration](https://www.youtube.com/your-demo-link)
+
+Includes:
+
+* Code walkthrough
+* All 4 experiment runs
+* 3 normal and 3 edge case demonstrations
+
+---
+
+## 📂 Files
+
+* `probability_experiments.py` — Main script
+* `Demo_Video_Plan_Probability_Experiments.pdf` — Demo video plan (for grading)
+* `README.md` — Project overview and instructions
+
+---
+
+## 📄 License
+
+This project was created as part of the Application Development BAS program at North Seattle College.
+
