@@ -54,16 +54,6 @@ Each task runs sequentially and displays a plot for each experiment.
 
 ---
 
-## ✨ Extra Credit
-
-For extra credit, a **Tkinter GUI** version can be implemented. Features might include:
-
-* Dropdown to select which experiment to run
-* Input boxes to customize number of trials
-* Buttons to trigger simulations and display charts
-
----
-
 ## 📹 Demonstration Video
 
 🎥 [Watch the video demonstration](https://www.youtube.com/your-demo-link)
@@ -73,14 +63,6 @@ Includes:
 * Code walkthrough
 * All 4 experiment runs
 * 3 normal and 3 edge case demonstrations
-
----
-
-## 📂 Files
-
-* `probability_experiments.py` — Main script
-* `Demo_Video_Plan_Probability_Experiments.pdf` — Demo video plan (for grading)
-* `README.md` — Project overview and instructions
 
 ---
 
